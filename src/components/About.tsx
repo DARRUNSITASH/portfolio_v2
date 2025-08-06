@@ -69,7 +69,7 @@ const About = () => {
                 <div className="mt-6 space-y-2">
                   <div className="text-sm text-gray-500 dark:text-gray-400">Currently Pursuing</div>
                   <div className="font-semibold text-gray-900 dark:text-gray-100">B.Tech AI & DS</div>
-                  <div className="text-sm text-gray-500 dark:text-gray-400">CGPA: 7.87</div>
+                  <div className="text-sm text-gray-500 dark:text-gray-400">CGPA: 7.49</div>
                 </div>
               </div>
             </div>
