@@ -16,7 +16,7 @@ const Education = () => {
       institution: 'Campion Anglo Indian Hr.Sec.School',
       board: 'State Board',
       year: '2022 - 2023',
-      grade: '83%',
+      grade: '77.17%',
       status: 'completed'
     },
     {
