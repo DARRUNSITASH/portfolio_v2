@@ -8,7 +8,7 @@ const Education = () => {
       institution: 'K Ramakrishnan College Of Technology',
       board: 'Anna University',
       year: '2023 - 2027',
-      grade: '7.87 CGPA',
+      grade: '7.49 CGPA',
       status: 'current'
     },
     {
